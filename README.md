@@ -14,4 +14,4 @@ routes/ web.php
 
  / // don't forget to migrate 
 
-not: vendor folder is big so i will uploaded as zip folder  all you will do is extract the vendor folder inside the project not inside folders iside project 
+not: vendor folder is big so i will uploaded as zip folder  all you will do is extract the vendor folder inside the project not inside folders inside project 

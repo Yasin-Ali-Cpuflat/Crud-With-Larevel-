@@ -1,15 +1,16 @@
 if you have laravel don't install all files go to files how i write codes inside  
 ///////
 The files is:
+
 Models / Post.php    
 
-     Controllers/ PostController.php 
-     
-         database/Migration/ 2022_07_12_120456_create_post_tbl.php
+Controllers/ PostController.php 
+    
+database/Migration/ 2022_07_12_120456_create_post_tbl.php
          
-                  routes/ web.php
+routes/ web.php
                   
-                      resources/ views/ posts/ (all blade files) 
+ resources/ views/ posts/ (all blade files) 
 
  / // don't forget to migrate 
 
